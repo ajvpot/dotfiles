@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+cd ~/.local/share/fonts
+for filename in *.{woff,woff2}; do
+	woff2_decompress $filename
+done
