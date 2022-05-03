@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+jq -r '.log.entries[] | select(.request.url | contains("actions/fonts/files/web-font")) | [.request.url, (.response.headers | from_entries | ."Content-Disposition" | split("\"")[1])]
+
+| "[\".local/share/fonts/"+.[1]+"\"]
+	type = \"file\"
+	url = \""+.[0]+"\"
+	refreshPeriod = \"90d\"
+"
+' ../Downloads/ohnotype.co.har
+
