@@ -77,4 +77,10 @@ export GOPRIVATE=gitlab.vanderpot.com/*
 eval "$(direnv hook zsh)"
 export EDITOR="nano"
 
-# test
+pkgs () {
+	sudo pikaur -S --needed - < ~/.local/share/chezmoi/packages
+}
+
+save-pkgs () {
+	pacman -Qqe > ~/.local/share/chezmoi/packages
+}
