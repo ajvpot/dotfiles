@@ -5,7 +5,6 @@ jq -r '.log.entries[] | select(.request.url | contains("actions/fonts/files/web-
 | "[\".local/share/fonts/"+.[1]+"\"]
 	type = \"file\"
 	url = \""+.[0]+"\"
-	refreshPeriod = \"90d\"
+	refreshPeriod = \"2160h\"
 "
-' ../Downloads/ohnotype.co.har
-
+' $1

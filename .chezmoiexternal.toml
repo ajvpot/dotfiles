@@ -15,3 +15,118 @@
     url = "https://github.com/romkatv/powerlevel10k/archive/v1.15.0.tar.gz"
     exact = true
     stripComponents = 1
+[".local/share/fonts/Vulf_Mono-Bold_Italic_web.woff2"]
+	type = "file"
+	url = "https://ohnotype.co/index.php?p=actions/fonts/files/web-font&style=e38a1e86d4262b6e891ec104d07c7fac6de849a33390a5efa8278d63c731036c272-509939b6-3ea6-475a-a144-5c39b5205caf"
+	refreshPeriod = "2160h"
+
+[".local/share/fonts/Vulf_Mono-Light_Italic_web.woff2"]
+	type = "file"
+	url = "https://ohnotype.co/index.php?p=actions/fonts/files/web-font&style=0ad8e7baab126f816cf849db03659370e53938c94a6154f4ebc9a7c9e33f84b6278-087bbac4-40d7-4704-9d7f-bab2f7df4eec"
+	refreshPeriod = "2160h"
+
+[".local/share/fonts/Covik_Sans-Regular.woff"]
+	type = "file"
+	url = "https://ohnotype.co/index.php?p=actions/fonts/files/web-font&style=daa49f51eabfd21f75fe925b99d540d21a498bf9a3e3dbc63a1d967e3b364a80490-bff1b0fd-1c58-49da-a692-60d3f1d44f44"
+	refreshPeriod = "2160h"
+
+[".local/share/fonts/Covik_Sans-Bold.woff"]
+	type = "file"
+	url = "https://ohnotype.co/index.php?p=actions/fonts/files/web-font&style=a5e43ef546b9cabc62dc82b13716b3894c3e11473ad3009206eb30b7f599abd4482-99e3d526-9701-4d63-bda7-1e695be55282"
+	refreshPeriod = "2160h"
+
+[".local/share/fonts/Vulf_Mono-Light_web.woff2"]
+	type = "file"
+	url = "https://ohnotype.co/index.php?p=actions/fonts/files/web-font&style=5aa66180d6fcdd67ace2254f756f9805e71d403b8032bc3a165e1f82eb1608b8281-4f8cf2c6-6e9a-4640-99f5-eb9e3d115d95"
+	refreshPeriod = "2160h"
+
+[".local/share/fonts/Covik_Sans-Italic.woff"]
+	type = "file"
+	url = "https://ohnotype.co/index.php?p=actions/fonts/files/web-font&style=ea90ccdfbcba5214801f8ff0e13cce3483a611c521b3b62827263d9b7128ba951842-bf8f8e85-91af-45f5-9a2e-3b2481fd4918"
+	refreshPeriod = "2160h"
+
+[".local/share/fonts/Covik_Sans-Bold_Italic.woff"]
+	type = "file"
+	url = "https://ohnotype.co/index.php?p=actions/fonts/files/web-font&style=96fc9cf5d118eb143b87d9239b325101f1a16716356b1bb4dbdf6aae72517636480-75fff2e5-9208-4fc9-95c9-cd8c6373119b"
+	refreshPeriod = "2160h"
+
+[".local/share/fonts/Ohno_Blazeface-18_Point.woff2"]
+	type = "file"
+	url = "https://ohnotype.co/index.php?p=actions/fonts/files/web-font&style=5741bed1b4b20b8e05a22e75c9714890e47d14b15510ce51085f254df6c0d917313-1e63b8f3-51a9-4b96-ae60-3d82fee84128"
+	refreshPeriod = "2160h"
+
+[".local/share/fonts/Vulf_Mono-Regular_web.woff"]
+	type = "file"
+	url = "https://ohnotype.co/index.php?p=actions/fonts/files/web-font&style=80fa5b9775f284e64f74ea261c188622c870953c8d1873f1afeea7d6bc073e6b25-a8a7ea81-ec24-448f-b9aa-e2a6babc2c3e"
+	refreshPeriod = "2160h"
+
+[".local/share/fonts/Vulf_Sans-Light.woff"]
+	type = "file"
+	url = "https://ohnotype.co/index.php?p=actions/fonts/files/web-font&style=35130a026549ec5229f9bc1cea4728b21c83b3e9a6b7fad9947dfb4be54046f26476-1e4228ec-2df9-48c7-9ca3-6971ef996ec1"
+	refreshPeriod = "2160h"
+
+[".local/share/fonts/Vulf_Mono-Italic_web.woff"]
+	type = "file"
+	url = "https://ohnotype.co/index.php?p=actions/fonts/files/web-font&style=fdafeaa2b70f179b86628d4b9ccfa2246e3c98b3e86322d67e6178013ff8258222-0267a785-149f-4897-b7e9-d0e13c28dced"
+	refreshPeriod = "2160h"
+
+[".local/share/fonts/Vulf_Mono-Bold_web.woff2"]
+	type = "file"
+	url = "https://ohnotype.co/index.php?p=actions/fonts/files/web-font&style=b41fef094cb5d8fba7ee8978bd350991181043cc68afcb26924c6acf8db73d66275-b5d52d28-94a5-4e39-8664-2d21324ae68a"
+	refreshPeriod = "2160h"
+
+[".local/share/fonts/Vulf_Sans-Regular.woff"]
+	type = "file"
+	url = "https://ohnotype.co/index.php?p=actions/fonts/files/web-font&style=08cb120b6d8e50aff405c7fb08ef6c5b2a704f4aaecee95c3012542be78d5d146479-12771f0d-711e-43dc-a426-f9a6c638e10e"
+	refreshPeriod = "2160h"
+
+[".local/share/fonts/Vulf_Sans-Medium_Italic.woff"]
+	type = "file"
+	url = "https://ohnotype.co/index.php?p=actions/fonts/files/web-font&style=eda203acbbab7ab10a55e112066b14b3ce4caf113fc55c6bdddf7f960d97acf76477-3e1fa442-1e27-4b3a-9c7b-8599c73088ae"
+	refreshPeriod = "2160h"
+
+[".local/share/fonts/Vulf_Mono-Black_Italic_web.woff2"]
+	type = "file"
+	url = "https://ohnotype.co/index.php?p=actions/fonts/files/web-font&style=580d4c428032b01fcc3772be171a35d4c0c49b0fe6a241d7b8215ba75a36a417266-c3294ca4-6e67-4421-b361-84ee18f7af1b"
+	refreshPeriod = "2160h"
+
+[".local/share/fonts/Vulf_Mono-Black_web.woff2"]
+	type = "file"
+	url = "https://ohnotype.co/index.php?p=actions/fonts/files/web-font&style=0c13676e9c97032cb96ae706a21d1dbcbf63c8b7baafbc430bee38766bff57fc269-a36cc228-e716-41a6-b835-edc3fedc8a4f"
+	refreshPeriod = "2160h"
+
+[".local/share/fonts/Vulf_Sans-Light_Italic.woff"]
+	type = "file"
+	url = "https://ohnotype.co/index.php?p=actions/fonts/files/web-font&style=87b468ae87e3665a346dab13bf8c247beb89fe63e5b04d78fe04b9b126db99df6475-bc621f4f-6c90-4e2b-86d7-145b787dfce3"
+	refreshPeriod = "2160h"
+
+[".local/share/fonts/Vulf_Sans-Italic.woff"]
+	type = "file"
+	url = "https://ohnotype.co/index.php?p=actions/fonts/files/web-font&style=cd83341bb16dec0cc974f44868b3850e17038a4023972058520b05605287e9d56474-5560996d-a2b5-493c-b044-4a67b82da4af"
+	refreshPeriod = "2160h"
+
+[".local/share/fonts/Vulf_Sans-Bold_Italic.woff"]
+	type = "file"
+	url = "https://ohnotype.co/index.php?p=actions/fonts/files/web-font&style=188400f57a8793b8b7617c4c984a26343a8daca21150a07464818af6b01ecef66472-2278fd49-2ffd-4dd3-8f51-56c21d7b33e8"
+	refreshPeriod = "2160h"
+
+[".local/share/fonts/Vulf_Sans-Bold.woff"]
+	type = "file"
+	url = "https://ohnotype.co/index.php?p=actions/fonts/files/web-font&style=0cee15fa43a7bc116ca46521d8824a86e2fbe5522ef7c718910f3fec8a3366256473-3507f3e5-87a3-4e83-a0fe-0bbdb72f312e"
+	refreshPeriod = "2160h"
+
+[".local/share/fonts/Vulf_Sans-Medium.woff"]
+	type = "file"
+	url = "https://ohnotype.co/index.php?p=actions/fonts/files/web-font&style=c71035dbaa44174706b762f6811b3f1d42f89ab35bc2554cdb0025be367fed916478-09c25dc7-bb24-409d-8b78-5e14aba25698"
+	refreshPeriod = "2160h"
+
+[".local/share/fonts/Vulf_Sans-Black_Italic.woff"]
+	type = "file"
+	url = "https://ohnotype.co/index.php?p=actions/fonts/files/web-font&style=bb4fbdff31d53a447efd5807428d93cff286b33810e8eeafd8942ef71328286d6470-9645b267-73be-4a82-9f1b-10e5b6df7a3b"
+	refreshPeriod = "2160h"
+
+[".local/share/fonts/Vulf_Sans-Black.woff"]
+	type = "file"
+	url = "https://ohnotype.co/index.php?p=actions/fonts/files/web-font&style=0a751b6217df0cb688987dc05999fd3c952b2f75ab65e4ddf916ff804d9060736471-bda2ac0b-b06e-48e7-ab56-fabe5adbb26b"
+	refreshPeriod = "2160h"
+
