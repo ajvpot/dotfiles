@@ -1,6 +1,7 @@
 [user]
 	email = alex@vanderpot.com
 	name = Alex Vanderpot
+	signingkey = D3196950
 [url "git@gitlab.vanderpot.com:"]
         insteadOf = https://gitlab.vanderpot.com/
 [pull]

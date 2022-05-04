@@ -16,6 +16,9 @@
     exact = true
     stripComponents = 1
 
+["bin/lunatrace"]
+    type = "file"
+    url = "https://github.com/lunasec-io/lunasec/releases/download/v1.0.0-lunatrace/lunatrace_1.0.0-lunatrace_Linux_x86_64" 
 [".nvm"]
    	type = "git-repo"
 	url = "https://github.com/creationix/nvm.git"
