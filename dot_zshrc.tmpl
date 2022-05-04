@@ -79,7 +79,8 @@ export EDITOR="nano"
 
 {{ if eq .chezmoi.os "linux" }}
 pkgs () {
-	sudo pikaur -S --needed - < ~/.local/share/chezmoi/packages
+	sudo pacman -S --needed $(comm -12 <(pacman -Slq | sort) <(sort ~/.local/share/chezmoi/packages))
+	sudo pikaur -S --needed $(comm -12 <(curl https://aur.archlinux.org/packages.gz | gzip -cd | sort) <(sort ~/.local/share/chezmoi/packages))
 }
 
 save-pkgs () {
