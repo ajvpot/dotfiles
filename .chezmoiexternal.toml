@@ -15,6 +15,12 @@
     url = "https://github.com/romkatv/powerlevel10k/archive/v1.15.0.tar.gz"
     exact = true
     stripComponents = 1
+
+[".nvm"]
+   	type = "git-repo"
+	url = "https://github.com/creationix/nvm.git"
+	refreshPeriod = "168h"
+
 [".local/share/fonts/Vulf_Mono-Bold_Italic_web.woff2"]
 	type = "file"
 	url = "https://ohnotype.co/index.php?p=actions/fonts/files/web-font&style=e38a1e86d4262b6e891ec104d07c7fac6de849a33390a5efa8278d63c731036c272-509939b6-3ea6-475a-a144-5c39b5205caf"
