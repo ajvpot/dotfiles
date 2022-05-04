@@ -13,6 +13,7 @@ aurutils
 autoconf
 automake
 autorandr
+aws-cli
 baobab
 base
 bind
@@ -152,6 +153,8 @@ openldap
 openscad
 openssh
 openttd-git
+ory-kratos-bin
+ory-oathkeeper-bin
 p7zip
 pacman-contrib
 parcellite
