@@ -71,7 +71,7 @@ source $ZSH/oh-my-zsh.sh
 alias ovr='git --git-dir=$HOME/.overlay/ --work-tree=/'
 
 export GOPATH=$HOME/go
-export PATH=$PATH:$GOPATH/bin:$HOME/bin
+export PATH=$PATH:$GOPATH/bin:$HOME/bin:$HOME/.local/bin
 export GOPRIVATE=gitlab.vanderpot.com/*
 
 eval "$(direnv hook zsh)"

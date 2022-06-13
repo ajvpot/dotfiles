@@ -152,6 +152,7 @@ bindsym $mod+r mode "resize"
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
 bar {
+	tray_output primary
         status_command i3status
         colors {
              background #2b2b2b
@@ -179,3 +180,8 @@ bindsym $mod+m move workspace to output right
 
 
 exec compton --config ~/.config/compton.conf -b
+
+
+for_window [class="discord"] sticky enable, floating enable, resize set width 888 height 500, border pixel 1
+for_window [class="discord"] [title="Discord$"] sticky disable, floating disable, border normal
+for_window [class="Gnome-screenshot"] floating enable
