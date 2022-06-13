@@ -16,6 +16,11 @@
     exact = true
     stripComponents = 1
 
+
+["notes"]
+    type = "git-repo"
+    url = "git@github.com:ajvpot/notes.git"
+
 ["bin/lunatrace"]
     type = "file"
     url = "https://github.com/lunasec-io/lunasec/releases/download/v1.0.0-lunatrace/lunatrace_1.0.0-lunatrace_Linux_x86_64" 
