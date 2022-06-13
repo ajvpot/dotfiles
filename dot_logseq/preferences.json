@@ -1,0 +1,28 @@
+{
+  "theme": {
+    "name": "Laurel theme",
+    "url": "assets:///home/alex/.logseq/plugins/logseq-laurel-theme/custom.css",
+    "description": "A custom theme forked from logseq-clean-themes",
+    "pid": "logseq-laurel-theme"
+  },
+  "themes": {
+    "mode": "dark",
+    "light": {
+      "name": "Atlas Theme: Light",
+      "url": "assets:///home/alex/.logseq/plugins/logseq-atlas-theme/custom.css",
+      "mode": "light",
+      "pid": "logseq-atlas-theme",
+      "selected": true
+    },
+    "dark": {
+      "name": "Default Dark Theme",
+      "url": null,
+      "description": "Logseq default dark theme.",
+      "mode": "dark",
+      "selected": false,
+      "group-first": true,
+      "group-desc": "dark themes"
+    }
+  },
+  "externals": []
+}
