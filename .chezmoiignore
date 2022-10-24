@@ -2,3 +2,4 @@ packages
 README.md
 scripts/**
 .oh-my-zsh/**
+.idea/**

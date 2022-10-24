@@ -33,7 +33,7 @@ bindsym XF86MonBrightnessDown exec xbacklight -dec 10 # decrease screen brightne
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec i3-sensible-terminal
+bindsym $mod+Return exec alacritty
 # start the menu
 bindsym $mod+space exec i3-dmenu-desktop --dmenu="dmenu -i -nf '#A9B7C6' -nb '#2B2B2B' -sb '#375980' -sf '#EEEEEE' -fn 'Vulf Mono-10'"
 

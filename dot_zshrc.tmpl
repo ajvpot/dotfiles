@@ -89,3 +89,17 @@ save-pkgs () {
 {{ end }}
 
 source ~/.nvm/nvm.sh
+
+ddgtime () {
+	xsel -b | jq 'del(.widgets[].definition.time)' | xclip -selection clipboard
+}
+
+rsynckeyadd () {
+	ssh fm1153@fm1153.rsync.net 'dd of=.ssh/authorized_keys oflag=append conv=notrunc'
+}
+
+export GITHUB_USER=ajvpot
+
+export ANDROID_SDK_ROOT=$HOME/Android/Sdk
+export PATH=$PATH:$ANDROID_SDK_ROOT/emulator
+export PATH=$PATH:$ANDROID_SDK_ROOT/platform-tools

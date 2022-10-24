@@ -24,5 +24,8 @@
       "group-desc": "dark themes"
     }
   },
-  "externals": []
+  "externals": [],
+  "pinnedToolbarItems": [
+    "logseq-tags:tags-plugin-open"
+  ]
 }

@@ -6,3 +6,5 @@
         insteadOf = https://gitlab.vanderpot.com/
 [pull]
 	rebase = true
+[push]
+	autoSetupRemote = true
