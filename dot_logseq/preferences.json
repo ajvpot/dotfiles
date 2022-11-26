@@ -19,13 +19,14 @@
       "url": null,
       "description": "Logseq default dark theme.",
       "mode": "dark",
-      "selected": false,
+      "selected": true,
       "group-first": true,
       "group-desc": "dark themes"
     }
   },
   "externals": [],
   "pinnedToolbarItems": [
-    "logseq-tags:tags-plugin-open"
+    "logseq-tags:tags-plugin-open",
+    "logseq-journals-calendar:open-calendar"
   ]
 }
