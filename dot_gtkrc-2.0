@@ -2,7 +2,7 @@
 # Any customization should be done in ~/.gtkrc-2.0.mine instead.
 
 include "/home/alex/.gtkrc-2.0.mine"
-gtk-theme-name="oomox-darcula2"
+gtk-theme-name="Adwaita-dark"
 gtk-icon-theme-name="oomox-arc-dark"
 gtk-font-name="SF Pro 10"
 gtk-cursor-theme-name="Adwaita"

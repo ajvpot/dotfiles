@@ -17,12 +17,8 @@
     stripComponents = 1
 
 
-["notes"]
-    type = "git-repo"
-    url = "git@github.com:ajvpot/notes.git"
-
 [".nvm"]
-   	type = "git-repo"
+	type = "git-repo"
 	url = "https://github.com/creationix/nvm.git"
 	refreshPeriod = "168h"
 
